@@ -2,4 +2,4 @@
 
 Mac keyboard layouts for programmers, qwerty and dvorak layouts provided.
 
-![programmer's layout](programmers layout.png)
+![programmer's layout](programmers%20layout.png)
